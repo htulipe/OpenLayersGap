@@ -21,14 +21,14 @@ Running on device
 
 With your device properly plugged in and driver installed:
 
-    phonegap install android
+    phonegap run android
 
 Running on emulator
 -------------------
 
 With an emulator running (called emulator-5554 in this case)
 
-    phonegap install --emulator=emulator-5554 android
+    phonegap run --emulator=emulator-5554 android
 
   
 Running on desktop
